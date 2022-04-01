@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Na primeira compra 15% de desconto!",
-    "link": "/promotion"
+    "text": "",
+    "link": "/promotion",
+    "color": "#6ab430",
+    "background": "#000000"
   },
   "contacts_stripe": {
     "pages": [
@@ -15,7 +17,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 1,
     "full_width": false
   },
   "desktop_megamenu": false,
