@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "",
     "link": "/promotion",
-    "color": "#6ab430",
-    "background": "#000000"
+    "color": "#000000",
+    "background": "#6ab430"
   },
   "contacts_stripe": {
     "pages": [
