@@ -12,6 +12,12 @@
           "mobile_img": "/img/uploads/ciclismo-feed.png"
         }
       ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
     }
   ]
 }
