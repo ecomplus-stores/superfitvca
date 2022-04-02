@@ -3,6 +3,15 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ciclismo-feed.png",
+          "mobile_img": "/img/uploads/ciclismo-feed.png"
+        }
+      ]
     }
   ]
 }
