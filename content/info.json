@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Frete para todo Brasil"
   },
   "installments": {
     "show": true,
@@ -9,7 +9,7 @@
   },
   "exchange": {
     "show": true,
-    "text": ""
+    "text": "Trocas e devoluções em até 7 dias úteis"
   },
   "promo": {
     "show": true,
