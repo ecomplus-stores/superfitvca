@@ -1,12 +1,12 @@
 {
   "domain": "www.superfit.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#6ab430",
   "theme": {
-    "bootswatch": "yeti",
-    "custom": "clean-white"
+    "bootswatch": "cosmo",
+    "custom": "niche-game"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#5b5b40",
   "repository": "ecomplus-stores/superfitvca",
   "logo": "/img/uploads/imagem_2022-04-01_180251.png",
   "name": "Super Fit",
@@ -14,13 +14,13 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Inter",
   "favicon": "/img/uploads/imagem_2022-04-01_170830.png",
-  "icons_font": "line-awesome",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#6ab430",
+  "secondary_color": "#0a0b0a",
   "icon": "/img/uploads/imagem_2022-04-01_170830.png",
   "store_id": 48512,
-  "description": "Suplementos Esportivos e Alimentares de procedência e excelência.",
+  "description": "Suplementos Esportivos e Alimentares para performance e qualidade de vida.",
   "large_icon": "/img/uploads/imagem_2022-04-01_180251.png"
 }
