@@ -1,11 +1,11 @@
 {
-  "meta_title": "",
+  "meta_title": "Suplementos Esportivos e Alimentares para performance e qualidade de vida. ",
   "meta_description": "",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/1.png",
