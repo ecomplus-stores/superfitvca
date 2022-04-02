@@ -2,19 +2,5 @@
   "title": "Blog",
   "meta_title": "Blog",
   "meta_description": "Blog",
-  "sections": [
-    {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "page-title",
-      "title": "",
-      "description": "Saiba mais "
-    },
-    {
-      "type": "blog",
-      "enabled": true
-    }
-  ]
+  "sections": []
 }
