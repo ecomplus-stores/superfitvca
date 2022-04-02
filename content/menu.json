@@ -1,8 +1,9 @@
 {
   "sort_categories": [
-    "creatina"
+    "creatina",
+    "termogenico"
   ],
-  "alphabetical_order": false,
-  "phone_wpp": true,
-  "socials": true
+  "alphabetical_order": true,
+  "phone_wpp": false,
+  "socials": false
 }
