@@ -1,8 +1,13 @@
 {
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": []
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "category-retail",
+      "enabled": true,
+      "sort": "sales"
     }
   ]
 }
