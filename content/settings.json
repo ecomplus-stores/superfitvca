@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#6ab430",
   "theme": {
-    "bootswatch": "cosmo",
-    "custom": "niche-game"
+    "bootswatch": "_",
+    "custom": "clean-gray"
   },
   "bg_color": "#5b5b40",
   "repository": "ecomplus-stores/superfitvca",
@@ -14,9 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Inter",
+  "font_family": "Raleway",
   "favicon": "/img/uploads/imagem_2022-04-01_170830.png",
-  "icons_font": "font-awesome",
+  "icons_font": "line-awesome",
   "country_code": "BR",
   "secondary_color": "#0a0b0a",
   "icon": "/img/uploads/imagem_2022-04-01_170830.png",
