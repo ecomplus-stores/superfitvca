@@ -33,6 +33,11 @@
       "offset": 0,
       "autoplay": 12000,
       "sort": null
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     }
   ]
 }
