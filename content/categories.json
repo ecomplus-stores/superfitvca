@@ -1,17 +1,8 @@
 {
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "category-retail",
       "enabled": true,
-      "sort": "sales"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
       "sort": "sales"
     },
     {
