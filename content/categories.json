@@ -13,6 +13,10 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
+    },
+    {
+      "type": "document-banner",
+      "enabled": true
     }
   ]
 }
