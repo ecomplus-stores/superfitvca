@@ -28,12 +28,10 @@
       "page": 1
     },
     {
-      "type": "page-title",
-      "title": "",
-      "description": ""
-    },
-    {
-      "type": "banners-grid"
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "autoplay": 12000
     }
   ]
 }
