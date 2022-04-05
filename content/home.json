@@ -5,15 +5,15 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
-          "img": "file:///C:/Users/nando/Downloads/2-_1_.webp",
-          "link": "/headset",
+          "img": "/img/uploads/1-1-.png",
+          "link": "/fretegratis",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/1-2-.png"
         }
       ]
     },
