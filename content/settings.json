@@ -3,10 +3,10 @@
   "currency_symbol": "R$",
   "primary_color": "#6ab430",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "simplex",
     "custom": "clean-gray"
   },
-  "bg_color": "#5b5b40",
+  "bg_color": "#ededd6",
   "repository": "ecomplus-stores/superfitvca",
   "logo": "/img/uploads/logotipo-secundario-com-slogan-2-.png",
   "name": "Super Fit",
