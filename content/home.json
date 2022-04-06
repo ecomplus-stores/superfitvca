@@ -8,12 +8,12 @@
       "full_width": false,
       "slides": [
         {
-          "img": "https://superfitvca.netlify.app/max-titanium",
-          "link": "/fretegratis",
+          "img": "/img/uploads/3.webp",
+          "link": "https://superfitvca.netlify.app/max-titanium",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/1-2-.png"
+          "mobile_img": ""
         }
       ]
     },
