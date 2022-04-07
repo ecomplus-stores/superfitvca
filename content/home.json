@@ -33,6 +33,10 @@
       "offset": 0,
       "autoplay": 12000,
       "sort": null
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
