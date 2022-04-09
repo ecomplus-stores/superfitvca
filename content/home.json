@@ -1,32 +1,5 @@
 {
   "meta_title": "Suplementos Esportivos e Alimentares para performance e qualidade de vida. ",
   "meta_description": "",
-  "sections": [
-    {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "full_width": false,
-      "slides": [
-        {
-          "img": "/img/uploads/3.webp",
-          "link": "https://superfitvca.netlify.app/max-titanium",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2022-04-12T03:00:00.000Z",
-          "mobile_img": ""
-        }
-      ]
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 30,
-      "offset": 0,
-      "autoplay": "",
-      "sort": null
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    }
-  ]
+  "sections": []
 }
