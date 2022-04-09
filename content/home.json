@@ -26,7 +26,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "offers",
-      "title": "",
+      "title": "Todos os produtos",
       "headless": false,
       "limit": 9,
       "page": 1
