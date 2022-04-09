@@ -22,11 +22,6 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "sales"
-    },
-    {
       "type": "brands-carousel",
       "limit": 30,
       "offset": 0,
