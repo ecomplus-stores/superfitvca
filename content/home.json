@@ -28,16 +28,6 @@
       "title": "Mais relevantes"
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-04-09T22:01:57.069Z",
-      "end": "2022-04-10T22:01:57.100Z",
-      "offers": [
-        "624d8c872e405e04ff270cd7"
-      ],
-      "notes": "Aproveite o lançamento "
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
