@@ -15,6 +15,10 @@
       "offset": 0,
       "sort": null,
       "autoplay": 3000
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
