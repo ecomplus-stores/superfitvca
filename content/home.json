@@ -18,10 +18,6 @@
       ]
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "brands-carousel",
       "limit": 30,
       "offset": 0,
