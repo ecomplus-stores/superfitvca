@@ -27,13 +27,6 @@
       "sort": "sales"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "title": "Estante de produtos"
-    },
-    {
       "type": "brands-carousel",
       "limit": 30,
       "offset": 0,
