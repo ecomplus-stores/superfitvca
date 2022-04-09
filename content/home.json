@@ -32,13 +32,6 @@
       "page": 1
     },
     {
-      "type": "brands-carousel",
-      "limit": 30,
-      "offset": 0,
-      "autoplay": "",
-      "sort": null
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
@@ -48,6 +41,13 @@
       "shuffle": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 30,
+      "offset": 0,
+      "autoplay": "",
+      "sort": null
     },
     {
       "type": "info-bar",
