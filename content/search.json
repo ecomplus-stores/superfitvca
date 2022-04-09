@@ -13,6 +13,10 @@
       "limit": 24,
       "offset": 0,
       "sort": null
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
