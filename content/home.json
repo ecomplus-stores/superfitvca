@@ -31,6 +31,19 @@
       "limit": 12,
       "page": 1,
       "title": "Mais relevantes"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
