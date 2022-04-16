@@ -33,7 +33,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "title": "Mais relevantes"
+      "title": "Mais relevantes",
+      "sort": "offers"
     },
     {
       "type": "dynamic-showcase",
