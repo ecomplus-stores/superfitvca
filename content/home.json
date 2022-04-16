@@ -34,7 +34,7 @@
       "limit": 12,
       "page": 1,
       "title": "Mais relevantes",
-      "sort": "offers"
+      "sort": "slug"
     },
     {
       "type": "dynamic-showcase",
