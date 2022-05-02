@@ -1,13 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Frete grátis para Bahia em compras a partir de R$ 399",
+    "text": "Cupom de Desconto Mês das Mães: #MÃE10",
     "link": "https://superfitvca.netlify.app",
     "color": "#000000",
     "background": "#6ab430"
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": false,
+    "phone_wpp": true,
     "socials": false
   },
   "categories_list": {
