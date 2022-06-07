@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Cupom de Desconto Mês das Mães: #MÃE10",
+    "text": "Bem-vindo à loja virtual Super Fit ",
     "link": "https://superfitvca.netlify.app",
     "color": "#000000",
-    "background": "#bf4186"
+    "background": "#6ab331"
   },
   "contacts_stripe": {
     "pages": [],
