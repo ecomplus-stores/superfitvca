@@ -13,12 +13,6 @@
           "img": "/img/uploads/novidades-semanais.webp"
         },
         {
-          "start": "2022-06-20T18:54:09.290Z",
-          "end": "2023-07-01T18:54:28.432Z",
-          "img": "/img/uploads/whey100_-pure.webp",
-          "mobile_img": "https://superfitvca.netlify.app/integralmedica"
-        },
-        {
           "start": "2022-04-09T21:55:03.255Z",
           "end": "2024-01-01T15:12:30.584Z",
           "img": "/img/uploads/imagem_2022-05-02_182316667.webp",
@@ -36,6 +30,12 @@
           "end": "2024-01-02T01:31:37.001Z",
           "img": "/img/uploads/design-sem-nome.webp",
           "link": "https://superfitvca.netlify.app/camelbak"
+        },
+        {
+          "start": "2022-06-20T19:05:04.664Z",
+          "end": "2023-12-01T19:05:46.142Z",
+          "img": "/img/uploads/whey100_-pure-1-.webp",
+          "link": "https://superfitvca.netlify.app/integralmedica"
         }
       ]
     },
