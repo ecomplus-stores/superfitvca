@@ -5,7 +5,7 @@
   "enableCheckout": false,
   "disablePages": true,
   "options": {
-    "tawktoPropertyId": "https://dashboard.tawk.to/#/admin/62c65cee7b967b117998683d/overview",
+    "tawktoPropertyId": "62c65cee7b967b117998683d",
     "tawktoChatWidget": "default"
   },
   "bodyAppend": "src/append/body"
