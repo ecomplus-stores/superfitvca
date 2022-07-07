@@ -6,7 +6,7 @@
   "disablePages": true,
   "options": {
     "tawktoPropertyId": "62c65cee7b967b117998683d",
-    "tawktoChatWidget": "default"
+    "tawktoChatWidget": ""
   },
   "bodyAppend": "src/append/body"
 }
