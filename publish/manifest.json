@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.92319f7e8b48261ecab0beef93e5cd84.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f1462cbda3e09297439ebce7dd2ba341.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.341138a6cccae70d9cecef111189541c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.6342a7b6ee8f23c0ee736105d9d2d2f5.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.d0dac643578d1b4c7d2b479a99bb7252.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Super Fit Suplementos",
+  "short_name": "Super Fit Suplementos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Suplementos Esportivos e Alimentares para performance e qualidade de vida.",
+  "background_color": "#ededd6",
+  "theme_color": "#6ab430"
+}
